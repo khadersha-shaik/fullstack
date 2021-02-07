@@ -1,0 +1,14 @@
+ h1{
+  background-color: #294B7A -#348F50;
+  color: #88CC66;
+  font-family: 'Big Shoulders Display', cursive;
+
+}
+img{
+  position: relative;
+  width: 70%;
+  height: 500px;
+}
+body{
+  background-image: linear-gradient(20deg,#348F50,#56B4D3);
+}
